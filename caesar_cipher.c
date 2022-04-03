@@ -10,7 +10,7 @@ int getsize(char *s)
     {
         if (s[i] != '\0')
         {
-            i++;
+            continue;
         }
         else
         {
