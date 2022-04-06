@@ -6,6 +6,9 @@
 */
 
 int getvalue(int n)
+/*
+    Recursive function.
+*/
 {
     if (n == 0)
         return 0;
