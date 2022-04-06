@@ -5,6 +5,9 @@
 */
 
 void fill(long long int *fib)
+/*
+    Non-recursive function.
+*/
 {
     fib[0] = 0;
     fib[1] = 1;
