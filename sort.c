@@ -32,6 +32,9 @@ void swap(int *v, int i, int j)
 }
 
 void sort_v(int *v, int size)
+/*
+Função ordenadora.
+*/
 {
     int i, j;
     for (i = 0; i < size; i++)
