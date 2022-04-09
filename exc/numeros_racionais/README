@@ -1,0 +1,7 @@
+Este programa realiza uma série de operações com frações utilizando tipo abstrato de dados.
+
+O arquivo rac.h declara o protótipo das funções que serão visíveis aos usuários, junto ao que retornam e ao que recebem como argumento.
+
+O arquivo rac.c realiza a implementação e o funcionamento das funções declaradas em rac.h.
+
+O arquivo main.c faz uso das funções anteriores.
