@@ -16,5 +16,17 @@ int main(){
 
     print_list(lista);
 
+    delete_at(lista, 3);
+
+    print_list(lista);
+
+    delete_begin(lista);
+
+    print_list(lista);
+
+    delete_end(lista);
+
+    print_list(lista);
+
     return 0;
 }
