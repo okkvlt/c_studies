@@ -11,7 +11,13 @@ bool insert_at(Lista *, int, int);
 
 bool insert_begin(Lista *, int);
 
-bool insert_begin(Lista *, int);
+bool insert_end(Lista *, int);
+
+bool delete_at(Lista *, int, int);
+
+bool delete_begin(Lista *, int);
+
+bool delete_end(Lista *, int);
 
 void print_list(Lista *);
 
