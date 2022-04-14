@@ -2,6 +2,11 @@
 #include <stdlib.h>
 #include <math.h>
 
+/*
+ * $ gcc base_conversion.c -o base -lm
+ * $ ./base
+ */
+
 int ascii2val(char num)
 {
     int value;
